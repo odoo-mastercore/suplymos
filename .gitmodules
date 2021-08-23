@@ -1,0 +1,4 @@
+[submodule "odoo-mastercore/odoo-venezuela"]
+	path = odoo-mastercore/odoo-venezuela
+	url = git@github.com:odoo-mastercore/odoo-venezuela.git
+	branch = 14.0
