@@ -7,3 +7,8 @@
 	path = odoo-mastercore/themes_addons
 	url = git@github.com:odoo-mastercore/themes_addons.git
 	branch = 14.0
+
+[submodule "odoo-mastercore/suplymos_addons"]
+	path = odoo-mastercore/suplymos_addons
+	url = git@github.com:odoo-mastercore/suplymos_addons.git
+	branch = 14.0
