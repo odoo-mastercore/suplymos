@@ -2,3 +2,8 @@
 	path = odoo-mastercore/odoo-venezuela
 	url = git@github.com:odoo-mastercore/odoo-venezuela.git
 	branch = 14.0
+
+[submodule "odoo-mastercore/themes_addons"]
+	path = odoo-mastercore/themes_addons
+	url = git@github.com:odoo-mastercore/themes_addons.git
+	branch = 14.0
