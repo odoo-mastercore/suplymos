@@ -12,3 +12,8 @@
 	path = odoo-mastercore/suplymos_addons
 	url = git@github.com:odoo-mastercore/suplymos_addons.git
 	branch = 14.0
+
+[submodule "CybroOdoo/CybroAddons"]
+	path = CybroOdoo/CybroAddons
+	url = git@github.com:CybroOdoo/CybroAddons.git
+	branch = 14.0
