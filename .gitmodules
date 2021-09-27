@@ -17,3 +17,8 @@
 	path = CybroOdoo/CybroAddons
 	url = git@github.com:CybroOdoo/CybroAddons.git
 	branch = 14.0
+
+[submodule "odoo-mastercore/odoo_server_tools"]
+	path = odoo-mastercore/odoo_server_tools
+	url = git@github.com:odoo-mastercore/odoo_server_tools.git
+	branch = 14.0
