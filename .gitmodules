@@ -23,3 +23,8 @@
 	url = git@github.com:odoo-mastercore/odoo_server_tools.git
 	branch = 14.0
 
+
+[submodule "odoo-mastercore/bi_integration"]
+	path = odoo-mastercore/bi_integration
+	url = git@github.com:odoo-mastercore/bi_integration.git
+	branch = 14.0
